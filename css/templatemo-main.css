@@ -883,6 +883,9 @@ nav a:hover::before {
 	.contact_info_area {
 		padding:50px 15px 0 15px;
 	}
+	.first-content h2 {
+		font-size:24px;
+	}
 
 }
 
