@@ -6,6 +6,7 @@ RockRocket Homepage 2019
 body {
 	background:#333;
 }
+
 @keyframes seq-preloader {
   50% {
     opacity: 1;
@@ -715,6 +716,7 @@ nav a:hover::before {
 	bottom: 0;
 	right: 0;
 	display: inline-block;
+	
 }
 
 .footer .content p {
@@ -731,7 +733,7 @@ nav a:hover::before {
 
 
 
-/* REPONSIVE */
+/* RESPONSIVE */
 
 @media (max-width: 991px) {
 
@@ -844,6 +846,13 @@ nav a:hover::before {
 
 	.fifth-content #contact {
 		padding: 15px 15px 15px 15px;
+	}
+	
+	.footer {
+		display:none;
+	}
+	#map {
+		display:none;
 	}
 
 }
