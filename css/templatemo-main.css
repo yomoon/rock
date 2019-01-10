@@ -896,4 +896,8 @@ nav a:hover::before {
 	nav a {
 	  	padding: 15px 20px;
 	}
+	
+	.first-content h2 {
+		font-size:24px;
+	}
 }
