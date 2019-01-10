@@ -1,8 +1,6 @@
 /* 
 
-Moonlight Template 
-
-http://www.templatemo.com/tm-512-moonlight
+RockRocket Homepage 2019
 
 */
 
@@ -321,9 +319,9 @@ nav a:hover::before {
 
 
 .first-content {
-	padding: 100px;
+	padding: 70px;
 	text-align: left;
-	padding-top: 13%;
+	padding-top: 7%;
 }
 
 .first-content .author-image img {
@@ -616,7 +614,23 @@ nav a:hover::before {
 	margin-bottom: 0px;
 }
 
+.contact_info_area {
+	text-align:left;
+	padding:50px 50px 0 50px;
+}
 
+.contact_info_area a {
+	color:#44DA67;
+	text-decoration:none;
+}
+.contact_info_area a:hover {
+	
+	text-decoration:underline;
+}
+
+.contact_info {
+	color:#ececec;
+}
 
 .fifth-content .container-fluid {
 	padding-left: 0px;
@@ -633,7 +647,7 @@ nav a:hover::before {
 }
 
 .fifth-content #contact {
-	padding: 50px 50px 50px 50px;
+	padding: 10px 50px 50px 50px;
 }
 
 .fifth-content input {
