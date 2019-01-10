@@ -3,7 +3,9 @@
 RockRocket Homepage 2019
 
 */
-
+body {
+	background:#333;
+}
 @keyframes seq-preloader {
   50% {
     opacity: 1;
