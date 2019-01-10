@@ -236,7 +236,7 @@ nav a {
   	z-index: 0;
 }
 nav a.active {
-  background-color: #fff;
+  background-color: #05ff51;
   color: #232323;
 }
 nav a::before {
@@ -636,7 +636,7 @@ nav a:hover::before {
 }
 
 .contact_info_area a {
-	color:#44DA67;
+	color:#05ff51;
 	text-decoration:none;
 }
 .contact_info_area a:hover {
